@@ -6,14 +6,14 @@ This is a 1st test on trying on cypress.
 
 # Installing
 
-It's a node project so business as usual: `npm install`
+It's a node project so business as usual: `npm install` or you can use yarn `yarn install`
 
 
 
 # Running
 
-To run tests, open your terminal and: `npm run cy:run`\
-Or you can open the cypress window to watch the test executing itself: `npm run cy:open`
+To run tests, open your terminal and: `npm run cy:run`, or for yarn fan: `yarn run cypress run`\ 
+Or you can open the cypress window to watch the test executing itself: `npm run cy:open` or `yarn run cypress run`
 
 
 
